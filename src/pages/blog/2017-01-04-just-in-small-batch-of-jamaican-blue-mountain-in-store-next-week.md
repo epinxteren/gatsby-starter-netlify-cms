@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: Testing
-date: 2017-01-04T15:04:10.000Z
+title: Testingdas
+date: '2017-01-26T00:00:00+01:00'
 description: >-
   We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
   Mountain coffee beans in our store next week.
